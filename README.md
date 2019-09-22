@@ -34,9 +34,13 @@ $ git push -u origin master
 4. Plot the learning curves
 
 Apply the gradient descent algorithm
+
 Plot the training loss at every iteration
+
 Plot the testing loss at every iteration
+
 Plot the training accuracy at every iteration
+
 Plot the testing accuracy at every iteration
 
 
